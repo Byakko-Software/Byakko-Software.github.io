@@ -1122,7 +1122,7 @@ a:hover, a:active {
 }
 
 .theme-red .fg-theme {
-    color: #EF3724 !important;
+    color: #0322d2 !important;
 }
 
 .theme-red .btn-theme {
@@ -1140,41 +1140,41 @@ a:hover, a:active {
 }
 
 .theme-red .btn-theme-outline {
-    color: #EF3724;
-    box-shadow: 0 0 0 2px #EF3724;
+    color: #0322d2;
+    box-shadow: 0 0 0 2px #0322d2;
 }
 
 .theme-red .btn-theme-outline:hover {
-    background-color: #EF3724;
+    background-color: #0322d2;
     color: #fff;
 }
 
 .theme-red .btn-theme-outline:focus {
-    background-color: #EF3724;
+    background-color: #0322d2;
     color: #fff;
-    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #EF3724;
+    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #0322d2;
 }
 
 .theme-red .btn-fab {
-    background-color: #EF3724;
+    background-color: #0322d2;
     color: #fff;
 }
 
 .theme-red .btn-fab:hover {
-    background-color: #F04936;
+    background-color: #0322d2;
     color: #fff;
 }
 
 .theme-red .progress {
-    box-shadow: 0 0 0 2px #EF3724;
+    box-shadow: 0 0 0 2px #0322d2;
 }
 
 .theme-red .progress-bar {
-    background-color: #EF3724;
+    background-color: #0322d2;
 }
 
 .theme-red .theme-list li::before {
-    border-color: #EF3724;
+    border-color: #0322d2;
 }
 
 

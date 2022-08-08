@@ -276,7 +276,7 @@
 
 .card-service .icon {
   display: inline-block;
-  margin: 0 auto;
+  margin: auto;
   width: 100px;
   height: 100px;
   line-height: 100px;
@@ -538,22 +538,22 @@
 
 .theme-red .filterable-button .btn.selected,
 .theme-red .filterable-button .btn:focus {
-  background-color: #EF3724;
+  background-color: #0322d2;
   color: #fff;
-  box-shadow: 0 0 0 2px #fff, 0 0 0 4px #EF3724;
+  box-shadow: 0 0 0 2px #fff, 0 0 0 4px #0322d2;
 }
 
 .theme-red .page-about .img-place::before {
-  border-color: #EF3724;
+  border-color: #0322d2;
 }
 
 .theme-red .timeline li:first-child .title {
-  background-color: #EF3724;
+  background-color: #0322d2;
 }
 
 .theme-red .timeline li:first-child::before {
-  background-color: #EF3724;
-  box-shadow: 0 0 0 2px #EF3724;
+  background-color: #0322d2;
+  box-shadow: 0 0 0 2px #0322d2;
 }
 
 /* Theme Blue */
